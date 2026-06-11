@@ -20,8 +20,8 @@
 
 ```yaml
 name:     Vinoth Kumar S
-alias:    teddy2911
-role:     Software Development Intern @ JSP Global Solutions
+alias:    teddy
+role:     Mtech Student
 education:
   - M.Tech CSE (Full Stack Dev) — SRM University, Chennai [2025–Present]
   - B.Tech IT — Sri Krishna College, Coimbatore [2021–2025]
@@ -42,7 +42,7 @@ fun_fact:  I am funny 😄
 <td width="50%">
 
 ### 🏢 JSP Global Solutions
-**Software Development Intern** · Jan 2026 – Present
+**Software Development Intern** · Jan 2026 – May 2026
 
 - Built **Ecoverify** — digitizes academic workflows & cuts paper usage
 - AI modules for **Exam Timetabling** & **Seating Allotment**
